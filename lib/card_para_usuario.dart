@@ -50,7 +50,7 @@ class CardParaUsuario extends StatelessWidget {
                     backgroundColor: Colors.transparent,
                     child: ClipOval(
                       child: Image.network(
-                        'https://cdn-icons-png.flaticon.com/512/1/1247.png',
+                        'https://cdn.iconscout.com/icon/free/png-256/free-avatar-370-456322.png?f=webp',
                         fit: BoxFit.fill,
                         width: double.infinity,
                         height: double.infinity,
