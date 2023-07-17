@@ -1,7 +1,7 @@
 name: card_para_usuario
-description: A new Flutter package project.
-version: 0.0.1
-homepage:
+description: Pacote de card para usuários.
+version: 1.0.0
+homepage: https://github.com/MaiaFerreira04/card_para_usuario.git #link do repositório no GitHub
 
 environment:
   sdk: '>=3.0.3 <4.0.0'
